@@ -1,7 +1,0 @@
-task_name,duration_minutes,priority
-Backup,30,High
-Report Generation,45,Medium
-System Update,60,High
-AI Model Training,120,Very High
-Data Cleaning,90,Medium
-Client Notification,20,Low
