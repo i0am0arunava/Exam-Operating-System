@@ -1,5 +1,10 @@
 # Exam Operating System (Custom Lightweight OS for Online Examinations)
 
+
+## Full Documentation
+link:  https://drive.google.com/file/d/1bzbeq9pSLvgYJof8NWA7pS6x-YCcLbEe/view?usp=sharing
+
+
 ## Overview
 
 The **Exam Operating System** is a lightweight, custom-built operating environment designed specifically for secure online examinations. It is inspired by controlled exam platforms like TCS iON but takes a more foundational approach by moving enforcement logic into the operating system layer itself.
