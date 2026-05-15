@@ -11,7 +11,7 @@ The **Exam Operating System** is a lightweight, custom-built operating environme
 
 Rather than relying on application-level restrictions, this system enforces exam integrity through a minimal Linux-based OS stack built on **Alpine Linux**, with custom components for window management, process control, and shell interaction.
 
-The system was developed as a group project by **Arunava (you)** and **Piyush Kumar Rai**, under the guidance of **Dipta Mukherjee**.
+The system was developed as a group project by **me** and **Piyush Kumar Rai**, under the guidance of **Dipta Mukherjee**.
 
 ---
 
