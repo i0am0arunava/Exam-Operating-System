@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of the Linux kernel?",
+    "options": [
+      "Provide a graphical user interface",
+      "Manage hardware resources and system calls",
+      "Run web applications",
+      "Compile source code"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 2,
+    "question": "Which scheduling algorithm gives the shortest average waiting time for a given set of processes?",
+    "options": [
+      "First Come First Serve (FCFS)",
+      "Round Robin (RR)",
+      "Shortest Job First (SJF)",
+      "Priority Scheduling"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "New Delhi"
+    ],
+    "correct_answer": 3,
+    "marks": 1
+  },
+  {
+    "id": 4,
+    "question": "In C language, which function is used to allocate memory dynamically?",
+    "options": [
+      "alloc()",
+      "malloc()",
+      "memset()",
+      "calloc_dyn()"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 5,
+    "question": "Which data structure uses LIFO (Last In First Out) principle?",
+    "options": [
+      "Queue",
+      "Linked List",
+      "Stack",
+      "Tree"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 6,
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Core Processing Utility",
+      "Central Program Utility"
+    ],
+    "correct_answer": 0,
+    "marks": 1
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT an operating system?",
+    "options": [
+      "Ubuntu",
+      "Windows 11",
+      "Oracle Database",
+      "macOS Ventura"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 8,
+    "question": "In binary, what is the decimal value of 1010?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 9,
+    "question": "What is the time complexity of Binary Search?",
+    "options": [
+      "O(n)",
+      "O(n²)",
+      "O(log n)",
+      "O(1)"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 10,
+    "question": "Which protocol is used for secure data transmission over the internet?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "HTTPS"
+    ],
+    "correct_answer": 3,
+    "marks": 1
+  },
+  {
+    "id": 11,
+    "question": "What is the default port number for HTTP?",
+    "options": [
+      "21",
+      "80",
+      "443",
+      "8080"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 12,
+    "question": "Which SQL command is used to retrieve data from a database?",
+    "options": [
+      "GET",
+      "FETCH",
+      "SELECT",
+      "RETRIEVE"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 13,
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Memory",
+      "Remote Access Memory"
+    ],
+    "correct_answer": 0,
+    "marks": 1
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a NoSQL database?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 15,
+    "question": "What is the purpose of a firewall?",
+    "options": [
+      "To increase internet speed",
+      "To protect against unauthorized access",
+      "To compress data",
+      "To encrypt files"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 16,
+    "question": "Which language is primarily used for Android app development?",
+    "options": [
+      "Swift",
+      "Kotlin",
+      "Ruby",
+      "PHP"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 17,
+    "question": "What does DNS stand for?",
+    "options": [
+      "Domain Name System",
+      "Digital Network Service",
+      "Data Node Server",
+      "Domain Network Security"
+    ],
+    "correct_answer": 0,
+    "marks": 1
+  },
+  {
+    "id": 18,
+    "question": "Which data structure is best for implementing a priority queue?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Heap",
+      "Stack"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 19,
+    "question": "What is the size of an IPv4 address?",
+    "options": [
+      "16 bits",
+      "32 bits",
+      "64 bits",
+      "128 bits"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 20,
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Selection Sort",
+      "Merge Sort",
+      "Insertion Sort"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 21,
+    "question": "What does API stand for?",
+    "options": [
+      "Application Programming Interface",
+      "Advanced Programming Integration",
+      "Automated Process Interface",
+      "Application Process Integration"
+    ],
+    "correct_answer": 0,
+    "marks": 1
+  },
+  {
+    "id": 22,
+    "question": "Which HTTP method is used to update a resource?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 23,
+    "question": "What is the purpose of the 'git clone' command?",
+    "options": [
+      "To create a new branch",
+      "To copy a repository",
+      "To merge branches",
+      "To delete a repository"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is a Python web framework?",
+    "options": [
+      "React",
+      "Angular",
+      "Django",
+      "Vue.js"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 25,
+    "question": "What is the main advantage of using a hash table?",
+    "options": [
+      "Sorted data storage",
+      "Constant time average complexity for search",
+      "Less memory usage",
+      "Simple implementation"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 26,
+    "question": "Which CSS property is used to change text color?",
+    "options": [
+      "font-color",
+      "text-color",
+      "color",
+      "foreground-color"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  },
+  {
+    "id": 27,
+    "question": "What does OOP stand for?",
+    "options": [
+      "Object-Oriented Programming",
+      "Operational Output Processing",
+      "Organized Object Protocol",
+      "Operating Output Procedure"
+    ],
+    "correct_answer": 0,
+    "marks": 1
+  },
+  {
+    "id": 28,
+    "question": "Which command is used to compile a C program using GCC?",
+    "options": [
+      "gcc -o output source.c",
+      "compile source.c",
+      "make source.c",
+      "build source.c"
+    ],
+    "correct_answer": 0,
+    "marks": 1
+  },
+  {
+    "id": 29,
+    "question": "What is the primary use of Docker?",
+    "options": [
+      "Code editing",
+      "Containerization",
+      "Database management",
+      "Web hosting"
+    ],
+    "correct_answer": 1,
+    "marks": 1
+  },
+  {
+    "id": 30,
+    "question": "Which JavaScript method is used to add an element to the end of an array?",
+    "options": [
+      "append()",
+      "add()",
+      "push()",
+      "insert()"
+    ],
+    "correct_answer": 2,
+    "marks": 1
+  }
+]

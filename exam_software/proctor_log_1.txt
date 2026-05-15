@@ -1,0 +1,473 @@
+2026-04-28 02:42:03  SYSTEM  Proctoring session started
+2026-04-28 02:42:09  FLAG[1]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 02:43:29  SYSTEM  Proctoring session started
+2026-04-28 02:43:35  FLAG[1]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 02:45:09  SYSTEM  Proctoring session started
+2026-04-28 02:45:11  FLAGCHECK  n_faces=0
+2026-04-28 02:45:11  NO_FACE_START  Face disappeared from frame
+2026-04-28 02:45:13  FLAGCHECK  n_faces=0
+2026-04-28 02:45:13  FLAG[1]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:15  FLAGCHECK  n_faces=0
+2026-04-28 02:45:15  FLAG[2]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:17  FLAGCHECK  n_faces=0
+2026-04-28 02:45:17  FLAG[3]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:19  FLAGCHECK  n_faces=0
+2026-04-28 02:45:19  FLAG[4]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:21  FLAGCHECK  n_faces=1
+2026-04-28 02:45:21  NO_FACE_END  Face returned to frame
+2026-04-28 02:45:23  FLAGCHECK  n_faces=1
+2026-04-28 02:45:25  FLAGCHECK  n_faces=1
+2026-04-28 02:45:27  FLAGCHECK  n_faces=1
+2026-04-28 02:45:29  FLAGCHECK  n_faces=1
+2026-04-28 02:45:31  FLAGCHECK  n_faces=0
+2026-04-28 02:45:31  NO_FACE_START  Face disappeared from frame
+2026-04-28 02:45:33  FLAGCHECK  n_faces=0
+2026-04-28 02:45:33  FLAG[5]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:35  FLAGCHECK  n_faces=0
+2026-04-28 02:45:35  FLAG[6]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:37  FLAGCHECK  n_faces=0
+2026-04-28 02:45:37  FLAG[7]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:39  FLAGCHECK  n_faces=0
+2026-04-28 02:45:39  FLAG[8]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:41  FLAGCHECK  n_faces=0
+2026-04-28 02:45:41  FLAG[9]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:43  FLAGCHECK  n_faces=0
+2026-04-28 02:45:43  FLAG[10]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:45  FLAGCHECK  n_faces=0
+2026-04-28 02:45:45  FLAG[11]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:47  FLAGCHECK  n_faces=0
+2026-04-28 02:45:47  FLAG[12]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:47  FLAG[13]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 02:45:49  FLAGCHECK  n_faces=0
+2026-04-28 02:45:49  FLAG[14]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:45:51  FLAGCHECK  n_faces=0
+2026-04-28 02:45:51  FLAG[15]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:43  SYSTEM  Proctoring session started
+2026-04-28 02:53:45  FLAGCHECK  n_faces=0
+2026-04-28 02:53:45  NO_FACE_START  Face disappeared from frame
+2026-04-28 02:53:47  FLAGCHECK  n_faces=0
+2026-04-28 02:53:47  FLAG[1]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:49  FLAGCHECK  n_faces=0
+2026-04-28 02:53:49  FLAG[2]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:51  FLAGCHECK  n_faces=0
+2026-04-28 02:53:51  FLAG[3]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:53  FLAGCHECK  n_faces=0
+2026-04-28 02:53:53  FLAG[4]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:55  FLAGCHECK  n_faces=0
+2026-04-28 02:53:55  FLAG[5]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:57  FLAGCHECK  n_faces=0
+2026-04-28 02:53:57  FLAG[6]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:53:59  FLAGCHECK  n_faces=1
+2026-04-28 02:53:59  NO_FACE_END  Face returned to frame
+2026-04-28 02:54:01  FLAGCHECK  n_faces=1
+2026-04-28 02:54:03  FLAGCHECK  n_faces=1
+2026-04-28 02:54:05  FLAGCHECK  n_faces=0
+2026-04-28 02:54:05  NO_FACE_START  Face disappeared from frame
+2026-04-28 02:54:07  FLAGCHECK  n_faces=0
+2026-04-28 02:54:07  FLAG[7]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:09  FLAGCHECK  n_faces=0
+2026-04-28 02:54:09  FLAG[8]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:11  FLAGCHECK  n_faces=0
+2026-04-28 02:54:11  FLAG[9]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:13  FLAGCHECK  n_faces=0
+2026-04-28 02:54:13  FLAG[10]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:15  FLAGCHECK  n_faces=0
+2026-04-28 02:54:15  FLAG[11]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:17  FLAGCHECK  n_faces=0
+2026-04-28 02:54:17  FLAG[12]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:19  FLAGCHECK  n_faces=0
+2026-04-28 02:54:19  FLAG[13]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:21  FLAGCHECK  n_faces=0
+2026-04-28 02:54:21  FLAG[14]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:23  FLAGCHECK  n_faces=0
+2026-04-28 02:54:23  FLAG[15]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:25  FLAGCHECK  n_faces=0
+2026-04-28 02:54:25  FLAG[16]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:27  FLAGCHECK  n_faces=0
+2026-04-28 02:54:27  FLAG[17]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:29  FLAGCHECK  n_faces=0
+2026-04-28 02:54:29  FLAG[18]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:31  FLAGCHECK  n_faces=0
+2026-04-28 02:54:31  FLAG[19]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:33  FLAGCHECK  n_faces=0
+2026-04-28 02:54:33  FLAG[20]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:35  FLAGCHECK  n_faces=0
+2026-04-28 02:54:35  FLAG[21]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:37  FLAGCHECK  n_faces=0
+2026-04-28 02:54:37  FLAG[22]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:39  FLAGCHECK  n_faces=0
+2026-04-28 02:54:39  FLAG[23]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:41  FLAGCHECK  n_faces=0
+2026-04-28 02:54:41  FLAG[24]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:43  FLAGCHECK  n_faces=0
+2026-04-28 02:54:43  FLAG[25]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:45  FLAGCHECK  n_faces=0
+2026-04-28 02:54:45  FLAG[26]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:47  FLAGCHECK  n_faces=0
+2026-04-28 02:54:47  FLAG[27]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:49  FLAGCHECK  n_faces=0
+2026-04-28 02:54:49  FLAG[28]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:51  FLAGCHECK  n_faces=0
+2026-04-28 02:54:51  FLAG[29]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:53  FLAGCHECK  n_faces=0
+2026-04-28 02:54:53  FLAG[30]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:55  FLAGCHECK  n_faces=0
+2026-04-28 02:54:55  FLAG[31]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:57  FLAGCHECK  n_faces=0
+2026-04-28 02:54:57  FLAG[32]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:54:59  FLAGCHECK  n_faces=0
+2026-04-28 02:54:59  FLAG[33]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:01  FLAGCHECK  n_faces=0
+2026-04-28 02:55:01  FLAG[34]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:03  FLAGCHECK  n_faces=0
+2026-04-28 02:55:03  FLAG[35]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:05  FLAGCHECK  n_faces=0
+2026-04-28 02:55:05  FLAG[36]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:07  FLAGCHECK  n_faces=0
+2026-04-28 02:55:07  FLAG[37]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:09  FLAGCHECK  n_faces=0
+2026-04-28 02:55:09  FLAG[38]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:11  FLAGCHECK  n_faces=0
+2026-04-28 02:55:11  FLAG[39]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:13  FLAGCHECK  n_faces=0
+2026-04-28 02:55:13  FLAG[40]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:15  FLAGCHECK  n_faces=0
+2026-04-28 02:55:15  FLAG[41]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:17  FLAGCHECK  n_faces=0
+2026-04-28 02:55:17  FLAG[42]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:19  FLAGCHECK  n_faces=0
+2026-04-28 02:55:19  FLAG[43]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:21  FLAGCHECK  n_faces=0
+2026-04-28 02:55:21  FLAG[44]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:23  FLAGCHECK  n_faces=0
+2026-04-28 02:55:23  FLAG[45]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:25  FLAGCHECK  n_faces=0
+2026-04-28 02:55:25  FLAG[46]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:27  FLAGCHECK  n_faces=0
+2026-04-28 02:55:27  FLAG[47]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:29  FLAGCHECK  n_faces=0
+2026-04-28 02:55:29  FLAG[48]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:31  FLAGCHECK  n_faces=0
+2026-04-28 02:55:31  FLAG[49]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:33  FLAGCHECK  n_faces=0
+2026-04-28 02:55:33  FLAG[50]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:35  FLAGCHECK  n_faces=0
+2026-04-28 02:55:35  FLAG[51]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:37  FLAGCHECK  n_faces=0
+2026-04-28 02:55:37  FLAG[52]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:39  FLAGCHECK  n_faces=0
+2026-04-28 02:55:39  FLAG[53]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:41  FLAGCHECK  n_faces=0
+2026-04-28 02:55:41  FLAG[54]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:43  FLAGCHECK  n_faces=0
+2026-04-28 02:55:43  FLAG[55]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:45  FLAGCHECK  n_faces=0
+2026-04-28 02:55:45  FLAG[56]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:47  FLAGCHECK  n_faces=0
+2026-04-28 02:55:47  FLAG[57]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:49  FLAGCHECK  n_faces=0
+2026-04-28 02:55:49  FLAG[58]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:51  FLAGCHECK  n_faces=0
+2026-04-28 02:55:51  FLAG[59]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:53  FLAGCHECK  n_faces=0
+2026-04-28 02:55:53  FLAG[60]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:55  FLAGCHECK  n_faces=0
+2026-04-28 02:55:55  FLAG[61]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:57  FLAGCHECK  n_faces=0
+2026-04-28 02:55:57  FLAG[62]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:55:59  FLAGCHECK  n_faces=0
+2026-04-28 02:55:59  FLAG[63]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:01  FLAGCHECK  n_faces=0
+2026-04-28 02:56:01  FLAG[64]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:03  FLAGCHECK  n_faces=0
+2026-04-28 02:56:03  FLAG[65]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:05  FLAGCHECK  n_faces=0
+2026-04-28 02:56:05  FLAG[66]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:07  FLAGCHECK  n_faces=0
+2026-04-28 02:56:07  FLAG[67]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:09  FLAGCHECK  n_faces=0
+2026-04-28 02:56:09  FLAG[68]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:11  FLAGCHECK  n_faces=0
+2026-04-28 02:56:11  FLAG[69]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:13  FLAGCHECK  n_faces=0
+2026-04-28 02:56:13  FLAG[70]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:15  FLAGCHECK  n_faces=0
+2026-04-28 02:56:15  FLAG[71]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:17  FLAGCHECK  n_faces=0
+2026-04-28 02:56:17  FLAG[72]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:19  FLAGCHECK  n_faces=0
+2026-04-28 02:56:19  FLAG[73]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:21  FLAGCHECK  n_faces=0
+2026-04-28 02:56:21  FLAG[74]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:23  FLAGCHECK  n_faces=0
+2026-04-28 02:56:23  FLAG[75]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:25  FLAGCHECK  n_faces=0
+2026-04-28 02:56:25  FLAG[76]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:27  FLAGCHECK  n_faces=0
+2026-04-28 02:56:27  FLAG[77]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:29  FLAGCHECK  n_faces=0
+2026-04-28 02:56:29  FLAG[78]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:31  FLAGCHECK  n_faces=0
+2026-04-28 02:56:31  FLAG[79]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:33  FLAGCHECK  n_faces=0
+2026-04-28 02:56:33  FLAG[80]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:35  FLAGCHECK  n_faces=0
+2026-04-28 02:56:35  FLAG[81]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:37  FLAGCHECK  n_faces=0
+2026-04-28 02:56:37  FLAG[82]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:39  FLAGCHECK  n_faces=0
+2026-04-28 02:56:39  FLAG[83]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:41  FLAGCHECK  n_faces=0
+2026-04-28 02:56:41  FLAG[84]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:43  FLAGCHECK  n_faces=0
+2026-04-28 02:56:43  FLAG[85]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:45  FLAGCHECK  n_faces=0
+2026-04-28 02:56:45  FLAG[86]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:47  FLAGCHECK  n_faces=0
+2026-04-28 02:56:47  FLAG[87]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:49  FLAGCHECK  n_faces=0
+2026-04-28 02:56:49  FLAG[88]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:51  FLAGCHECK  n_faces=0
+2026-04-28 02:56:51  FLAG[89]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:53  FLAGCHECK  n_faces=0
+2026-04-28 02:56:53  FLAG[90]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:55  FLAGCHECK  n_faces=0
+2026-04-28 02:56:55  FLAG[91]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:57  FLAGCHECK  n_faces=0
+2026-04-28 02:56:57  FLAG[92]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:56:59  FLAGCHECK  n_faces=0
+2026-04-28 02:56:59  FLAG[93]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:01  FLAGCHECK  n_faces=0
+2026-04-28 02:57:01  FLAG[94]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:03  FLAGCHECK  n_faces=0
+2026-04-28 02:57:03  FLAG[95]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:05  FLAGCHECK  n_faces=0
+2026-04-28 02:57:05  FLAG[96]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:07  FLAGCHECK  n_faces=0
+2026-04-28 02:57:07  FLAG[97]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:09  FLAGCHECK  n_faces=0
+2026-04-28 02:57:09  FLAG[98]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:11  FLAGCHECK  n_faces=0
+2026-04-28 02:57:11  FLAG[99]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:13  FLAGCHECK  n_faces=0
+2026-04-28 02:57:13  FLAG[100]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:15  FLAGCHECK  n_faces=0
+2026-04-28 02:57:15  FLAG[101]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:17  FLAGCHECK  n_faces=0
+2026-04-28 02:57:17  FLAG[102]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:19  FLAGCHECK  n_faces=0
+2026-04-28 02:57:19  FLAG[103]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:21  FLAGCHECK  n_faces=0
+2026-04-28 02:57:21  FLAG[104]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:23  FLAGCHECK  n_faces=0
+2026-04-28 02:57:23  FLAG[105]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:25  FLAG[106]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 02:57:25  FLAGCHECK  n_faces=0
+2026-04-28 02:57:25  FLAG[107]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 02:57:27  FLAGCHECK  n_faces=0
+2026-04-28 02:57:27  FLAG[108]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:08:50  SYSTEM  Proctoring session started
+2026-04-28 03:08:52  FLAGCHECK  n_faces=1
+2026-04-28 03:08:54  FLAGCHECK  n_faces=1
+2026-04-28 03:08:56  FLAGCHECK  n_faces=1
+2026-04-28 03:08:58  FLAGCHECK  n_faces=1
+2026-04-28 03:09:00  FLAGCHECK  n_faces=1
+2026-04-28 03:09:01  FLAG[1]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 03:09:02  FLAGCHECK  n_faces=1
+2026-04-28 03:09:23  SYSTEM  Proctoring session started
+2026-04-28 03:09:25  FLAGCHECK  n_faces=1
+2026-04-28 03:09:27  FLAGCHECK  n_faces=1
+2026-04-28 03:09:29  FLAGCHECK  n_faces=1
+2026-04-28 03:09:31  FLAGCHECK  n_faces=1
+2026-04-28 03:09:43  SYSTEM  Proctoring session started
+2026-04-28 03:09:45  FLAGCHECK  n_faces=1
+2026-04-28 03:09:47  FLAGCHECK  n_faces=1
+2026-04-28 03:09:49  FLAGCHECK  n_faces=1
+2026-04-28 03:09:51  FLAGCHECK  n_faces=0
+2026-04-28 03:09:51  NO_FACE_START  Face disappeared from frame
+2026-04-28 03:09:53  FLAGCHECK  n_faces=0
+2026-04-28 03:09:53  FLAG[1]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:09:55  FLAGCHECK  n_faces=1
+2026-04-28 03:09:55  NO_FACE_END  Face returned to frame
+2026-04-28 03:09:57  FLAGCHECK  n_faces=1
+2026-04-28 03:09:59  FLAGCHECK  n_faces=0
+2026-04-28 03:09:59  NO_FACE_START  Face disappeared from frame
+2026-04-28 03:10:01  FLAGCHECK  n_faces=0
+2026-04-28 03:10:01  FLAG[2]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:10:03  FLAGCHECK  n_faces=0
+2026-04-28 03:10:03  FLAG[3]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:10:05  FLAGCHECK  n_faces=0
+2026-04-28 03:10:05  FLAG[4]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:10:07  FLAGCHECK  n_faces=0
+2026-04-28 03:10:07  FLAG[5]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:10:09  FLAGCHECK  n_faces=0
+2026-04-28 03:10:09  FLAG[6]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:10:11  FLAGCHECK  n_faces=0
+2026-04-28 03:10:11  FLAG[7]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:10:13  FLAGCHECK  n_faces=1
+2026-04-28 03:10:13  NO_FACE_END  Face returned to frame
+2026-04-28 03:10:15  FLAGCHECK  n_faces=1
+2026-04-28 03:10:17  FLAGCHECK  n_faces=1
+2026-04-28 03:10:19  FLAGCHECK  n_faces=1
+2026-04-28 03:10:21  FLAGCHECK  n_faces=1
+2026-04-28 03:10:23  FLAGCHECK  n_faces=1
+2026-04-28 03:10:25  FLAGCHECK  n_faces=1
+2026-04-28 03:10:27  FLAGCHECK  n_faces=1
+2026-04-28 03:10:29  FLAGCHECK  n_faces=1
+2026-04-28 03:10:31  FLAGCHECK  n_faces=1
+2026-04-28 03:10:33  FLAGCHECK  n_faces=1
+2026-04-28 03:10:35  FLAGCHECK  n_faces=1
+2026-04-28 03:10:37  FLAGCHECK  n_faces=1
+2026-04-28 03:10:39  FLAGCHECK  n_faces=1
+2026-04-28 03:41:45  SYSTEM  Proctoring session started
+2026-04-28 03:41:47  FLAGCHECK  n_faces=1
+2026-04-28 03:41:49  FLAGCHECK  n_faces=1
+2026-04-28 03:41:51  FLAGCHECK  n_faces=1
+2026-04-28 03:41:53  FLAGCHECK  n_faces=0
+2026-04-28 03:41:53  NO_FACE_START  Face disappeared from frame
+2026-04-28 03:41:55  FLAGCHECK  n_faces=0
+2026-04-28 03:41:55  FLAG[1]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:41:57  FLAGCHECK  n_faces=0
+2026-04-28 03:41:57  FLAG[2]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:41:59  FLAGCHECK  n_faces=0
+2026-04-28 03:41:59  FLAG[3]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:42:01  FLAGCHECK  n_faces=0
+2026-04-28 03:42:01  FLAG[4]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 03:42:03  FLAGCHECK  n_faces=1
+2026-04-28 03:42:03  NO_FACE_END  Face returned to frame
+2026-04-28 03:42:05  FLAGCHECK  n_faces=1
+2026-04-28 03:42:07  FLAGCHECK  n_faces=1
+2026-04-28 03:47:29  SYSTEM  Proctoring session started
+2026-04-28 03:47:31  FLAGCHECK  n_faces=1
+2026-04-28 03:47:33  FLAGCHECK  n_faces=1
+2026-04-28 10:16:13  SYSTEM  Proctoring session started
+2026-04-28 10:16:19  FLAG[1]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 10:16:21  FLAG[2]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 10:22:36  SYSTEM  Proctoring session started
+2026-04-28 10:22:43  FLAG[1]  TAB_SWITCH  —  Application lost focus / window switch detected
+2026-04-28 10:23:02  SYSTEM  Proctoring session started
+2026-04-28 10:25:25  SYSTEM  Proctoring session started
+2026-04-28 19:16:09  SYSTEM  Proctoring session started
+2026-04-28 19:16:11  FLAGCHECK  n_faces=1
+2026-04-28 19:16:13  FLAGCHECK  n_faces=1
+2026-04-28 19:16:15  FLAGCHECK  n_faces=1
+2026-04-28 19:16:17  FLAGCHECK  n_faces=1
+2026-04-28 19:16:19  FLAGCHECK  n_faces=1
+2026-04-28 19:16:21  FLAGCHECK  n_faces=0
+2026-04-28 19:16:21  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:16:23  FLAGCHECK  n_faces=1
+2026-04-28 19:16:23  NO_FACE_END  Face returned to frame
+2026-04-28 19:16:25  FLAGCHECK  n_faces=1
+2026-04-28 19:16:27  FLAGCHECK  n_faces=1
+2026-04-28 19:16:29  FLAGCHECK  n_faces=1
+2026-04-28 19:16:31  FLAGCHECK  n_faces=0
+2026-04-28 19:16:31  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:16:33  FLAGCHECK  n_faces=0
+2026-04-28 19:16:33  FLAG[1]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:16:35  FLAGCHECK  n_faces=1
+2026-04-28 19:16:35  NO_FACE_END  Face returned to frame
+2026-04-28 19:16:37  FLAGCHECK  n_faces=1
+2026-04-28 19:16:39  FLAGCHECK  n_faces=1
+2026-04-28 19:16:41  FLAGCHECK  n_faces=1
+2026-04-28 19:16:43  FLAGCHECK  n_faces=1
+2026-04-28 19:16:45  FLAGCHECK  n_faces=1
+2026-04-28 19:16:47  FLAGCHECK  n_faces=1
+2026-04-28 19:16:49  FLAGCHECK  n_faces=0
+2026-04-28 19:16:49  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:16:51  FLAGCHECK  n_faces=1
+2026-04-28 19:16:51  NO_FACE_END  Face returned to frame
+2026-04-28 19:16:53  FLAGCHECK  n_faces=2
+2026-04-28 19:16:53  FLAG[2]  MULTIPLE_FACES  —  2 faces detected in frame
+2026-04-28 19:16:55  FLAGCHECK  n_faces=1
+2026-04-28 19:16:57  FLAGCHECK  n_faces=1
+2026-04-28 19:16:59  FLAGCHECK  n_faces=0
+2026-04-28 19:16:59  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:17:01  FLAGCHECK  n_faces=1
+2026-04-28 19:17:01  NO_FACE_END  Face returned to frame
+2026-04-28 19:17:03  FLAGCHECK  n_faces=1
+2026-04-28 19:17:05  FLAGCHECK  n_faces=1
+2026-04-28 19:17:07  FLAGCHECK  n_faces=2
+2026-04-28 19:17:07  FLAG[3]  MULTIPLE_FACES  —  2 faces detected in frame
+2026-04-28 19:17:09  FLAGCHECK  n_faces=0
+2026-04-28 19:17:09  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:17:11  FLAGCHECK  n_faces=0
+2026-04-28 19:17:11  FLAG[4]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:13  FLAGCHECK  n_faces=0
+2026-04-28 19:17:13  FLAG[5]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:15  FLAGCHECK  n_faces=0
+2026-04-28 19:17:15  FLAG[6]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:17  FLAGCHECK  n_faces=0
+2026-04-28 19:17:17  FLAG[7]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:19  FLAGCHECK  n_faces=0
+2026-04-28 19:17:19  FLAG[8]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:21  FLAGCHECK  n_faces=0
+2026-04-28 19:17:21  FLAG[9]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:23  FLAGCHECK  n_faces=0
+2026-04-28 19:17:23  FLAG[10]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:25  FLAGCHECK  n_faces=0
+2026-04-28 19:17:25  FLAG[11]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:27  FLAGCHECK  n_faces=0
+2026-04-28 19:17:27  FLAG[12]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:17:29  FLAGCHECK  n_faces=1
+2026-04-28 19:17:29  NO_FACE_END  Face returned to frame
+2026-04-28 19:17:31  FLAGCHECK  n_faces=1
+2026-04-28 19:17:33  FLAGCHECK  n_faces=1
+2026-04-28 19:17:35  FLAGCHECK  n_faces=1
+2026-04-28 19:17:37  FLAGCHECK  n_faces=1
+2026-04-28 19:17:39  FLAGCHECK  n_faces=1
+2026-04-28 19:17:41  FLAGCHECK  n_faces=1
+2026-04-28 19:17:43  FLAGCHECK  n_faces=0
+2026-04-28 19:17:43  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:17:45  FLAGCHECK  n_faces=1
+2026-04-28 19:17:45  NO_FACE_END  Face returned to frame
+2026-04-28 19:17:47  FLAGCHECK  n_faces=0
+2026-04-28 19:17:47  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:17:49  FLAGCHECK  n_faces=1
+2026-04-28 19:17:49  NO_FACE_END  Face returned to frame
+2026-04-28 19:17:51  FLAGCHECK  n_faces=0
+2026-04-28 19:17:51  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:17:53  FLAGCHECK  n_faces=1
+2026-04-28 19:17:53  NO_FACE_END  Face returned to frame
+2026-04-28 19:17:55  FLAGCHECK  n_faces=1
+2026-04-28 19:17:57  FLAGCHECK  n_faces=1
+2026-04-28 19:17:59  FLAGCHECK  n_faces=1
+2026-04-28 19:18:01  FLAGCHECK  n_faces=1
+2026-04-28 19:18:03  FLAGCHECK  n_faces=1
+2026-04-28 19:18:05  FLAGCHECK  n_faces=1
+2026-04-28 19:18:07  FLAGCHECK  n_faces=1
+2026-04-28 19:18:09  FLAGCHECK  n_faces=1
+2026-04-28 19:18:11  FLAGCHECK  n_faces=0
+2026-04-28 19:18:11  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:18:13  FLAGCHECK  n_faces=1
+2026-04-28 19:18:13  NO_FACE_END  Face returned to frame
+2026-04-28 19:18:15  FLAGCHECK  n_faces=0
+2026-04-28 19:18:15  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:18:17  FLAGCHECK  n_faces=1
+2026-04-28 19:18:17  NO_FACE_END  Face returned to frame
+2026-04-28 19:18:19  FLAGCHECK  n_faces=0
+2026-04-28 19:18:19  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:18:21  FLAGCHECK  n_faces=1
+2026-04-28 19:18:21  NO_FACE_END  Face returned to frame
+2026-04-28 19:18:23  FLAGCHECK  n_faces=1
+2026-04-28 19:18:25  FLAGCHECK  n_faces=0
+2026-04-28 19:18:25  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:18:27  FLAGCHECK  n_faces=1
+2026-04-28 19:18:27  NO_FACE_END  Face returned to frame
+2026-04-28 19:18:29  FLAGCHECK  n_faces=1
+2026-04-28 19:18:31  FLAGCHECK  n_faces=1
+2026-04-28 19:18:33  FLAGCHECK  n_faces=1
+2026-04-28 19:18:35  FLAGCHECK  n_faces=1
+2026-04-28 19:18:37  FLAGCHECK  n_faces=1
+2026-04-28 19:18:39  FLAGCHECK  n_faces=1
+2026-04-28 19:18:41  FLAGCHECK  n_faces=0
+2026-04-28 19:18:41  NO_FACE_START  Face disappeared from frame
+2026-04-28 19:18:43  FLAGCHECK  n_faces=0
+2026-04-28 19:18:43  FLAG[13]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:18:45  FLAGCHECK  n_faces=0
+2026-04-28 19:18:45  FLAG[14]  NO_FACE  —  Candidate not visible in frame
+2026-04-28 19:18:47  FLAGCHECK  n_faces=1
+2026-04-28 19:18:47  NO_FACE_END  Face returned to frame
+2026-04-28 19:18:49  FLAGCHECK  n_faces=1
+2026-04-28 19:18:51  FLAGCHECK  n_faces=1
+2026-04-28 19:18:53  FLAGCHECK  n_faces=1
+2026-04-28 19:18:55  FLAGCHECK  n_faces=1

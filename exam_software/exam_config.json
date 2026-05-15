@@ -1,0 +1,52 @@
+{
+  "exam_info": {
+    "title": "Operating Systems & CS Fundamentals",
+    "code": "CS2024-FINAL",
+    "duration_minutes": 120,
+    "passing_percentage": 40,
+    "total_marks": 100
+  },
+  "guidelines": [
+    "This is a proctored examination. Any malpractice will result in disqualification.",
+    "The exam consists of multiple sections: MCQs and Coding Assessment.",
+    "You must attempt all sections. Marks are awarded only for correct answers.",
+    "For MCQ questions: Each correct answer awards +1 mark, incorrect/unattempted = 0 marks.",
+    "For Coding questions: Partial marks based on test cases passed.",
+    "You can navigate between questions within a section freely.",
+    "Once you submit a section, you CANNOT go back to it.",
+    "Use only the allowed programming languages for coding questions.",
+    "Do not attempt to switch windows, open other applications, or use external resources.",
+    "The exam will auto-submit when time expires.",
+    "Ensure stable internet connection throughout the exam.",
+    "Click 'I Agree & Continue' to proceed to the examination."
+  ],
+  "sections": [
+    {
+      "id": 1,
+      "name": "Multiple Choice Questions",
+      "type": "mcq",
+      "duration_minutes": 30,
+      "total_marks": 30,
+      "questions_file": "mcq_questions.json",
+      "instructions": "Answer all 30 multiple choice questions. Each question carries 1 mark."
+    },
+    {
+      "id": 2,
+      "name": "Coding Assessment - Easy",
+      "type": "coding",
+      "duration_minutes": 45,
+      "total_marks": 35,
+      "questions_file": "coding_easy.json",
+      "instructions": "Solve coding problems. You can test your code against sample test cases before final submission."
+    },
+    {
+      "id": 3,
+      "name": "Coding Assessment - Medium",
+      "type": "coding",
+      "duration_minutes": 45,
+      "total_marks": 35,
+      "questions_file": "coding_medium.json",
+      "instructions": "Solve advanced coding problems. Hidden test cases will be evaluated after submission."
+    }
+  ]
+}
